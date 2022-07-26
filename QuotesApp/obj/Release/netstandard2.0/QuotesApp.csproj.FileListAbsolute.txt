@@ -1,0 +1,15 @@
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\bin\Release\netstandard2.0\QuotesApp.deps.json
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\bin\Release\netstandard2.0\QuotesApp.dll
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\bin\Release\netstandard2.0\QuotesApp.pdb
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\QuotesApp.csproj.AssemblyReference.cache
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\QuotesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\QuotesApp.AssemblyInfoInputs.cache
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\QuotesApp.AssemblyInfo.cs
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\QuotesApp.csproj.CoreCompileInputs.cache
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\QuotesApp.dll
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\refint\QuotesApp.dll
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\QuotesApp.pdb
+C:\Users\edhot\source\repos\QuotesApp\QuotesApp\obj\Release\netstandard2.0\ref\QuotesApp.dll
